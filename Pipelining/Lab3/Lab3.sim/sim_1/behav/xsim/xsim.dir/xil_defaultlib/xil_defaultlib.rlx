@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/remelias001/Desktop/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+C:/Users/remelias001/Desktop/lab3_r/AM_top.v,1645772743,verilog,,C:/Users/remelias001/Desktop/lab3_r/multA.v,,AM_top,,,,,,,,
+C:/Users/remelias001/Desktop/lab3_r/AM_top_tb.v,1645765759,verilog,,,,AM_top_tb,,,,,,,,
+C:/Users/remelias001/Desktop/lab3_r/array_mult_6bit.v,1645765759,verilog,,C:/Users/remelias001/Desktop/lab3_r/AM_top_tb.v,,array_mult_6bit,,,,,,,,
+C:/Users/remelias001/Desktop/lab3_r/multA.v,1645765760,verilog,,C:/Users/remelias001/Desktop/lab3_r/multB.v,,multA,,,,,,,,
+C:/Users/remelias001/Desktop/lab3_r/multB.v,1645765759,verilog,,C:/Users/remelias001/Desktop/lab3_r/AM_top_tb.v,,multB,,,,,,,,
