@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/remelias001/Desktop/CE2003_Lab2/ce2003_lab2.srcs/sim_1/new/Lab2_top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab2_top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/remelias001/Desktop/CE2003_Lab2/ce2003_lab2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
