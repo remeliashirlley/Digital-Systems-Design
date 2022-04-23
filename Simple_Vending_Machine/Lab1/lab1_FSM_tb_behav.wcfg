@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lab1_FSM_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="lab1_FSM_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="358000001fs"></ZoomEndTime>
+      <Cursor1Time time="240000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="154"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/lab1_FSM_tb/fifty" type="logic">
+      <obj_property name="ElementShortName">fifty</obj_property>
+      <obj_property name="ObjectShortName">fifty</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab1_FSM_tb/dollar" type="logic">
+      <obj_property name="ElementShortName">dollar</obj_property>
+      <obj_property name="ObjectShortName">dollar</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab1_FSM_tb/cancel" type="logic">
+      <obj_property name="ElementShortName">cancel</obj_property>
+      <obj_property name="ObjectShortName">cancel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab1_FSM_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab1_FSM_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab1_FSM_tb/st" type="array">
+      <obj_property name="ElementShortName">st[1:0]</obj_property>
+      <obj_property name="ObjectShortName">st[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab1_FSM_tb/uut/nst" type="array">
+      <obj_property name="ElementShortName">nst[1:0]</obj_property>
+      <obj_property name="ObjectShortName">nst[1:0]</obj_property>
+   </wvobject>
+</wave_config>
